@@ -1,0 +1,29 @@
+html, body {
+    width: 330px;
+    text-align: left;
+}
+
+label {
+    margin-left: 4px;
+}
+
+textarea {
+    width: 92%;
+    margin: 4px;
+    padding: 8px;
+    height: 35px;
+    min-height: 35px;
+    font-size: x-large;
+    resize: vertical;
+}
+
+button {
+    margin: 4px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+button.copy {
+    float: right;
+    font-size: xx-small;
+}
