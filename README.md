@@ -8,5 +8,4 @@
 <h4>Method 2: Running on Mozilla Firefox Browser Locally</h4>
 <p><b>Step 1: </b>Clone this project and put it to your machine.</p>
 <br>
-<p><b>Step 2: </b>Launch the Mozilla Firefox browser and visit the url below to open debugging page.</p>
-<p>about:debugging</p>
+<p><b>Step 2: </b>Launch the Mozilla Firefox browser and visit <span style="color: blue">about:debugging</span> to open the debugging page.</p>
