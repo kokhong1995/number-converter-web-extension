@@ -8,4 +8,9 @@
 <h4>Method 2: Running on Mozilla Firefox Browser Locally</h4>
 <p><b>Step 1: </b>Clone this project and put it to your machine.</p>
 <br>
-<p><b>Step 2: </b>Launch the Mozilla Firefox browser and visit <a href="about:debugging">about:debugging</a> to open the debugging page.</p>
+<p><b>Step 2: </b>Launch the Mozilla Firefox browser and visit <i>about:debugging#/runtime/this-firefox</i> to open the debugging page.</p>
+<br>
+<p><b>Step 3: </b>Click on the "Load Temporary Add-on..." button and open the <i>manifest.json</i> of this project.</p>
+<br>
+<h4>Finally...</h4>
+<p>You may see the add-on icon at the end of the menu bar. If it does not show up, please try changing gecko id to another value in <i>manifest.json</i> of this project. Once finished changing the value, simply reload the add-on again.</p> 
